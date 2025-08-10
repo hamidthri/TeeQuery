@@ -1,0 +1,19 @@
+venv/
+
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# macOS files
+.DS_Store
+
+
